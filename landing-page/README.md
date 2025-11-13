@@ -27,7 +27,25 @@ The page adapts to all screen sizes using **CSS Flexbox**, **Grid**, and **media
 ---
 
 ## 📂 Folder Structure
-
+landing-page/
+├── src/
+│ ├── components/
+│ │ ├── Header/
+│ │ │ ├── Header.jsx
+│ │ │ └── Header.css
+│ │ ├── Home/
+│ │ │ ├── Home.jsx
+│ │ │ └── Home.css
+│ │ └── Footer/
+│ │ ├── Footer.jsx
+│ │ └── Footer.css
+│ ├── assets/
+│ │ └── image.png
+│ ├── App.js
+│ └── index.js
+├── public/
+│ └── index.html
+└── README.md
 ---
 
 ## ⚙️ Installation & Setup
